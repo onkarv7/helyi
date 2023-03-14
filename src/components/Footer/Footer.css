@@ -1,0 +1,163 @@
+.get-started {
+
+    height: 223px;
+    display: flex;
+    justify-content: space-evenly;
+    background: linear-gradient(91.18deg, #FFD776 5.04%, #F8AA5A 38.01%, #F38844 91.88%);
+    color: var(--color-white);
+}
+
+.phone {
+    width: 99px;
+    height: 190.59px;
+    margin: 13px 0px 0px 113px;
+}
+
+.app {
+    display: flex;
+    margin-left: 150px;
+    /* margin-left: 400px; */
+    gap: 16px;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 37px;
+}
+
+.social {
+    width: 296px;
+    height: 40px;
+    margin-top: 40px;
+}
+
+.footer-app {
+    display: flex;
+    gap: 10px;
+
+}
+
+.footer-app img {
+    width: 183.16px;
+    height: 54.3px;
+}
+
+.footer-title {
+    height: 30px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    color: #F38844;
+    margin-bottom: 44px;
+}
+
+.footer-subtitle {
+    height: 200px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    color: #2C2C2C;
+}
+
+/* a {
+    height: 25px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #2C2C2C;
+    margin-bottom: 40px;
+    display: inline-flex;
+
+} */
+
+.footer img {
+    margin-bottom: 62px;
+}
+
+.copyright {
+    height: 23px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+
+    margin-bottom: 94px;
+    color: rgba(44, 44, 44, 0.52);
+}
+
+.subscribe {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.foot {
+    margin-bottom: 22px;
+}
+
+.foott {
+    margin-bottom: 7px;
+}
+
+.footer-button {
+    margin: 10px 0px 10px 0px;
+    width: 128px;
+    height: 48px;
+    color: white;
+    background: #82B53F;
+    border-radius: 5px;
+}
+
+.TC {
+    display: flex;
+    gap: 48px;
+
+    height: 23px;
+
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #2C2C2C;
+}
+
+.links2 {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    margin-bottom: 40px;
+    font-size: 24px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #2C2C2C;
+
+}
+
+.subscribe input {
+    width: 425px;
+    height: 65px;
+    left: 1405px;
+    top: 5821px;
+
+    background: #EDEDED;
+    border-radius: 10px;
+    padding: 20px 18px;
+}
+
+.subscribe .input1 {
+    background: url("../../assets/contact1.png");
+    background-repeat: no-repeat;
+    background-position-y: center;
+    padding-left: 70px;
+    background-position-x: 15px;
+}
+
+.subscribe .input2 {
+    background: url("../../assets/contact2.png");
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-position-x: 20px;
+    padding-left: 70px;
+}

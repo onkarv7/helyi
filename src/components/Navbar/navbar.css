@@ -1,0 +1,32 @@
+.navbar {
+    height: 96px;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.14);
+    background-color: var(--color-white);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    height: 68px;
+    width: 144px;
+    margin-left: 20px;
+}
+
+.links a {
+    /* display: flex;
+    justify-content: space-between; */
+    margin-left: 57px;
+}
+
+.buttons button {
+    border-radius: 5px;
+    padding: 12px 38px;
+    cursor: pointer;
+    margin-left: 57px;
+}
+
+.buttons :nth-child(2) {
+    margin: 0px 80px 0px 16px;
+    background-color: var(--color-primary);
+}

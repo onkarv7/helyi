@@ -1,0 +1,84 @@
+.keyadvantage {
+
+    height: 1158px;
+    left: 0px;
+    top: 3636px;
+
+    background-color: rgba(243, 136, 68, 0.15);
+}
+
+.keyadvantage-title {
+    padding-top: 44px;
+
+}
+
+.keyadvantage-subtitle {
+    margin-top: 71px;
+    margin-bottom: 36px;
+}
+
+
+.card {
+    width: 573px;
+    height: 886px;
+    background: var(--color-white);
+    border-radius: 25px;
+}
+
+.card img {
+    margin-left: 111px;
+}
+
+.card-img {
+    margin-top: 54px;
+    height: 126.22px;
+    margin-left: 150px !important;
+
+}
+
+
+.card-title {
+
+    height: 28px;
+
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 28px;
+    color: var(--color-text);
+    text-align: center;
+    margin: 19px 0px 16px 0px;
+}
+
+.card-subtitle {
+
+    height: 54px;
+
+
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+
+    color: var(--color-grey);
+    margin-bottom: 53px;
+
+}
+
+
+.key-icon {
+    display: flex;
+    gap: 17px;
+    margin-bottom: 37px;
+}
+
+.logos {
+    width: 23.34px;
+    height: 24px !important;
+}
+
+.card-container {
+    display: flex;
+    gap: 20px;
+    margin-left: 49px;
+    margin-right: 49px;
+}

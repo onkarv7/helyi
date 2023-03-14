@@ -1,0 +1,105 @@
+:root {
+  /* Global variables to be defined here */
+  --color-white: #FFFFFF;
+
+  --color-primary: #82B53F;
+
+  --color-text: #000000;
+  --color-secondary: #F38844;
+  --color-black: #2A2A2A;
+  --color-grey: #484848AB;
+  --color-bg: rgba(243, 136, 68, 0.15);
+  ;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+
+}
+
+html,
+body {
+  height: 100%;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+  cursor: pointer;
+}
+
+body {
+  /* font-family: 'Poppins', sans-serif; */
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+img,
+picture,
+video,
+canvas,
+svg {
+  display: block;
+  max-width: 100%;
+}
+
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  overflow-wrap: break-word;
+}
+
+#root,
+#__next {
+  isolation: isolate;
+}
+
+
+
+
+
+
+
+
+
+
+.title {
+  margin-top: 56px;
+  font-weight: 800;
+  font-size: 40px;
+  line-height: 50px;
+  height: 50px;
+  color: var(--color-black);
+  text-align: center;
+}
+
+.subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 25px;
+  height: 50px;
+  color: var(--color-grey);
+  text-align: center;
+}
+
+button {
+  cursor: pointer;
+}
