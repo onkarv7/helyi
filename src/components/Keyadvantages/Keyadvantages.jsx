@@ -40,7 +40,7 @@ const Keyadvantages = () => {
                 alt=""
               />
 
-              <div>Dashboard Notifications</div>
+              <div>Click on a button and lend </div>
             </div>
             <div className="key-icon">
               <img
@@ -49,7 +49,7 @@ const Keyadvantages = () => {
                 alt=""
               />
 
-              <div>Dashboard Notifications</div>
+              <div> Easy Forecasting </div>
             </div>
             <div className="key-icon">
               <img
@@ -58,7 +58,7 @@ const Keyadvantages = () => {
                 alt=""
               />
 
-              <div>Dashboard Notifications</div>
+              <div>Keep Records and Alerts </div>
             </div>
             <div className="key-icon">
               <img
@@ -67,7 +67,7 @@ const Keyadvantages = () => {
                 alt=""
               />
 
-              <div>Dashboard Notifications</div>
+              <div>Easy Inventory Control </div>
             </div>
             <div className="key-icon">
               <img
@@ -76,7 +76,7 @@ const Keyadvantages = () => {
                 alt=""
               />
 
-              <div>Dashboard Notifications</div>
+              <div>Get your returns in just a snap</div>
             </div>
             <div className="key-icon">
               <img
@@ -85,7 +85,7 @@ const Keyadvantages = () => {
                 alt=""
               />
 
-              <div>Dashboard Notifications</div>
+              <div>Reward your Customers </div>
             </div>
             <div className="key-icon">
               <img
@@ -94,7 +94,7 @@ const Keyadvantages = () => {
                 alt=""
               />
 
-              <div>Dashboard Notifications</div>
+              <div>Earn an Extra Income </div>
             </div>
           </div>
         </div>
@@ -119,7 +119,7 @@ const Keyadvantages = () => {
                 alt=""
               />
 
-              <div>Dashboard Notifications</div>
+              <div>Single Point Initiation </div>
             </div>
             <div className="key-icon">
               <img
@@ -128,7 +128,7 @@ const Keyadvantages = () => {
                 alt=""
               />
 
-              <div>Dashboard Notifications</div>
+              <div> Weekly Supply</div>
             </div>
             <div className="key-icon">
               <img
@@ -137,7 +137,7 @@ const Keyadvantages = () => {
                 alt=""
               />
 
-              <div>Dashboard Notifications</div>
+              <div>24X7 Customer Support</div>
             </div>
             <div className="key-icon">
               <img
@@ -146,7 +146,7 @@ const Keyadvantages = () => {
                 alt=""
               />
 
-              <div>Dashboard Notifications</div>
+              <div> Digital Marketing</div>
             </div>
           </div>
         </div>
@@ -171,7 +171,7 @@ const Keyadvantages = () => {
                 alt=""
               />
 
-              <div>Dashboard Notifications</div>
+              <div>Versatile Partners</div>
             </div>
             <div className="key-icon">
               <img
@@ -180,7 +180,7 @@ const Keyadvantages = () => {
                 alt=""
               />
 
-              <div>Dashboard Notifications</div>
+              <div>Loyalty Program</div>
             </div>
             <div className="key-icon">
               <img
@@ -189,7 +189,7 @@ const Keyadvantages = () => {
                 alt=""
               />
 
-              <div>Dashboard Notifications</div>
+              <div>Monthly Launches</div>
             </div>
             <div className="key-icon">
               <img
@@ -198,7 +198,7 @@ const Keyadvantages = () => {
                 alt=""
               />
 
-              <div>Dashboard Notifications</div>
+              <div>Offers & Rewards</div>
             </div>
             <div className="key-icon">
               <img
@@ -207,7 +207,7 @@ const Keyadvantages = () => {
                 alt=""
               />
 
-              <div>Dashboard Notifications</div>
+              <div>Easy Purchase </div>
             </div>
             <div className="key-icon">
               <img
@@ -216,7 +216,7 @@ const Keyadvantages = () => {
                 alt=""
               />
 
-              <div>Dashboard Notifications</div>
+              <div>Smart Security</div>
             </div>
           </div>
         </div>
